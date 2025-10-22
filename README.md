@@ -1,7 +1,6 @@
 # yEnc-FPE: Format-Preserving Encryption for yEnc Blocks
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/Tensai75/go-yEnc-FPE.svg)](https://pkg.go.dev/github.com/Tensai75/go-yEnc-FPE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Tensai75/go-yEnc-FPE)](https://goreportcard.com/report/github.com/Tensai75/go-yEnc-FPE)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A Go implementation of the **[yEnc-FPE (yEnc Format-Preserving Encryption) standard](https://github.com/Tensai75/yEnc-FPE-standard)** that provides secure, format-preserving encryption for yEnc-encoded binary blocks used in Usenet transfers.
