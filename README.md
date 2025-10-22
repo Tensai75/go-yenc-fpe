@@ -141,7 +141,9 @@ normalized, err := yEncFPE.Normalize(yEncBlock)
 - **Deterministic**: Same password + segment index = same output
 - **Password Dependent**: Security relies entirely on password strength
 - **Unique Segments**: Use different segment indices to prevent identical ciphertexts
-- **No Authentication**: Provides confidentiality only, not integrity### Best Practices
+- **No Authentication**: Provides confidentiality only, not integrity
+
+### Best Practices
 
 ```go
 // Good: Unique segment indices
